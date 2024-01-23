@@ -4,7 +4,7 @@
 
 ## Description
 
-A brief description of your project goes here. Explain what problem it solves and what makes it unique.
+A brief description of the project is here.
 
 ## Table of Contents
 
