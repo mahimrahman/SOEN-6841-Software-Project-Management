@@ -13,6 +13,7 @@ Collaboration: The prefix "Co" stands for collaboration, highlighting the main o
 Flow: The word "flow" describes how the activities and procedures inside the project go along smoothly and continuously. It implies productivity, effectiveness, and a smooth workflow.
 So, CoLabFlow will be known as a tool that helps team members communicate, share information, and complete tasks more easily, by speeding up project completion and boosting overall productivity.
 
+
 Objective:
 Our project’s main goal is to make project management simpler and more efficient.We're not stopping at just spotting these issues, we want to truly understand them and how they affect the creative process.
 
