@@ -28,7 +28,7 @@ Our project’s main goal is to make project management simpler and more efficie
 
 | Name | Role |
 | --- | --- |
-| Mahimur Rahman Khan | Project Manager |
+| Mahimur Rahman Khan | Project Manager & Group Leader |
 | Darshil Ramesh Patil | Project Manager |
 | Amro Elbahrawy | Project Manager |
 | Jinish Vaidya | Project Manager |
